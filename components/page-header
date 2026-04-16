@@ -1,0 +1,17 @@
+<div
+  class="page-header bg-primary pb-5 px-4 d-flex flex-column justify-content-center align-items-center text-center gap-3 overflow-hidden"
+ style="padding-top: 7rem"
+>
+  <img src="assets/images/hero-bg.png" alt="" class="page-header-img" />
+
+  <h1 class="text-white fw-medium position-relative z-1">
+    تعرف علي <span class="text-secondary">سيرتي</span> الذاتية
+  </h1>
+  <p
+  class="text-white position-relative z-1"
+          style="line-height: 2; max-width: 600px; font-weight: 200"
+  >
+    أكاديمية تعليمية أونلاين تهدف إلى تقديم محتوى تدريبي عالي الجودة يساعد
+    الأفراد على تطوير مهاراتهم واكتساب خبرات عملية تؤهلهم لسوق العمل
+  </p>
+</div>
